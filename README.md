@@ -1,3 +1,3 @@
-# first_repository
+# Python projects for beginners
 ## subtitle in 
-You can add a description here
+This repositary contains some projects for beginners in python language. 
